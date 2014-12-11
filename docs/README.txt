@@ -2,4 +2,4 @@
 ul.traject
 ==========
 
-FIX ME
+Traject patterns for UVCLight
