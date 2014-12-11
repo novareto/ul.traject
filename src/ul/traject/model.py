@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from uvclight.directives import context
+from grokcore.component import context
 from cromlech.browser import redirect_response
 from cromlech.webob import response
 from zope.interface import Interface

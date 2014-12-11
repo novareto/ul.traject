@@ -15,6 +15,12 @@ long_description = read('README.txt') + '\n' + read('HISTORY.txt')
 
 install_requires = [
     'traject',
+    'cromlech.browser',
+    'cromlech.webob',
+    'zope.interface',
+    'dolmen.location',
+    'grokcore.component',
+    'dawnlight',
     ]
 
 tests_require = [
